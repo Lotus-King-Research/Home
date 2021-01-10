@@ -13,4 +13,4 @@
   </a>
 </p>
 
-<p align="center"> The mission of <b>Lotus King Research</b> is to be a positive factor in the translation, understanding and practice of Tibetan language Dharma texts, and Tibetan language in the context of Buddhadharma. </p>
+<p align="center"> The mission of <b>Lotus King Research</b> is to be a positive factor in the translation, understanding and practice of Tibetan language Dharma texts, and Tibetan language in the context of Buddhadharma.</p>
